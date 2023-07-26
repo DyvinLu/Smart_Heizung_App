@@ -13,7 +13,7 @@
               <h3 class="page-title">Startseite</h3>
               <ul class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/">Dashboard</a></li>
-                <li class="breadcrumb-item active">Startseite</li>
+                <li class="breadcrumb-item active">Home</li>
               </ul>
             </div>
           </div>

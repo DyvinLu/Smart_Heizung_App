@@ -13,7 +13,7 @@
                 <li class="breadcrumb-item">
                     <router-link to="/"><r>Dashboard</r></router-link>
                 </li>
-                <li class="breadcrumb-item active">Termine</li>
+                <li class="breadcrumb-item active">Schedule</li>
               </ul>
             </div>
           </div>
@@ -21,7 +21,7 @@
 
         <div class="card flex-fill">
           <div class="card-header">
-            <h5 class="card-title">Termine</h5>
+            <h5 class="card-title">Terminplan</h5>
           </div>
           <div class="card-body">
             <div class="card card-table">

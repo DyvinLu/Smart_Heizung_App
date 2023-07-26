@@ -22,7 +22,7 @@
         <div class="row">
           <div class="col-12 d-flex">
             <div class="container">
-              <p>Sie müssen sich einloggen, um die Seite zu sehen</p>
+              <p>Bitte loggen Sie sich ein, um die Seite zu sehen</p>
               <button class="btn btn-primary" @click="$auth.login()">Log in</button>
             </div>
           </div>

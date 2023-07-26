@@ -139,7 +139,7 @@
           <div class="col-xl-12 d-flex" v-if="store.selectedRoomSchedules">
             <div class="card flex-fill">
               <div class="card-header">
-                <h5 class="card-title">Termine</h5>
+                <h5 class="card-title">Reservierungen</h5>
               </div>
               <div class="card-body">
                 <div class="card card-table">
@@ -192,7 +192,7 @@
           <div class="col-xl-12 d-flex">
             <div class="card flex-fill">
               <div class="card-header">
-                <h5 class="card-title">Terminkalender</h5>
+                <h5 class="card-title">Kalenderfunktion</h5>
               </div>
               <div class="card-body">
                 <FullCalendar :options="calendarOptions" >

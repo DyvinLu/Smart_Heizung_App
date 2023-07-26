@@ -5,7 +5,6 @@ import Profile from "./views/Profile.vue";
 import Unauthorized from "./views/Unauthorized.vue";
 import AuthCallback from "./views/AuthCallback.vue";
 import SilentRenew from "./views/SilentRenew.vue";
-import ReservierungView from "./views/ReservierungView.vue";
 import RaumDetailsView from "./views/RaumDetailsView.vue";
 import ScheduleView from "./views/ScheduleView.vue";
 const routes = [
@@ -35,11 +34,7 @@ const routes = [
     name: 'unauthorized',
     component: Unauthorized
   },
-  {
-    path: '/reservierung',
-    name: 'reservierung',
-    component:ReservierungView
-  },
+
   {
     path: '/details/:id',
     name: 'raumDetails',
