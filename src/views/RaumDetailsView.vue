@@ -153,7 +153,7 @@
                           <th>Ende</th>
                           <th>Typ</th>
                           <th>Ziel T.</th>
-                          <th>wiederkehrende Tage</th>
+                          <th>Wiederkehrende Tage</th>
                           <th>Bearbeiten</th>
                           <th>Löschen</th>
                         </tr>
